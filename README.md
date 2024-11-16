@@ -6,8 +6,7 @@ This project is a solution to the **Roxiler MERN Stack Coding Challenge**. It co
 
 ## Live Demo
 
-- **Frontend URL**: [Roxiler Frontend](https://roxiler-plum.vercel.app/)  
-- **Backend URL**: [Roxiler Backend](https://roxiler-task-5lpo.onrender.com)
+- **Website URL**: [Sales Management Platform](https://roxiler-plum.vercel.app/)  
 
 ---
 
